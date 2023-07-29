@@ -1,6 +1,85 @@
 # SQL_analysis
 Done a buisness relevant case-study with data from database of the organisation using sql
 
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Objective](#objective)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [SQL Scripts](#sql-scripts)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Introduction
+The SQL Analysis project is aimed at conducting data analysis and exploration on a specific database using SQL queries. The project includes various SQL scripts designed to retrieve and analyze data from the database, uncover insights, and generate meaningful reports.
+
+## Objective
+The main objectives of this project are:
+- Perform data analysis using SQL to derive valuable insights from the database.
+- Generate various reports and visualizations for data interpretation.
+- Showcase the power and flexibility of SQL in handling complex data queries.
+
+## Features
+- SQL queries for retrieving specific data subsets from the database.
+- Aggregation and transformation of data to calculate key metrics and statistics.
+- Joining multiple tables to combine relevant information for analysis.
+- Creating views and temporary tables for efficient data manipulation.
+- Exporting analysis results to CSV or other formats for reporting.
+
+## Technologies Used
+- SQL (Structured Query Language)
+- Database Management System (e.g., MySQL, PostgreSQL, SQLite)
+- Google BigQuery
+
+*(Feel free to add or modify the list of technologies based on the database management system and tools used in your project)*
+
+## Installation
+To run the SQL Analysis scripts, follow these steps:
+
+1. Clone the repository to your local machine using the following command:
+   ```
+   git clone https://github.com/raghav1saboo/SQL_analysis.git
+   ```
+
+2. Install the required database management system and SQL client on your machine (e.g., MySQL Workbench, pgAdmin, SQLiteStudio, etc.).
+
+3. Connect to the appropriate database using the SQL client and import the provided database schema and data (if applicable).
+
+## Usage
+1. Open your preferred SQL client and connect to the database.
+
+2. Navigate to the "SQL_scripts" directory in the repository.
+
+3. Execute the SQL scripts (*.sql files) in the SQL client to perform the desired data analysis.
+
+4. Review the results, reports, and visualizations generated from the SQL queries.
+
+## SQL Scripts
+List the SQL scripts available in the repository and their purposes. For example:
+- `analysis_script_1.sql`: Retrieves user information and engagement metrics from the "users" table.
+- `analysis_script_2.sql`: Calculates sales and revenue data by joining the "orders" and "products" tables.
+
+*(Add any additional scripts relevant to your project)*
+
+## Contributing
+Contributions to this project are welcome. If you find any issues or have improvements to suggest, please feel free to open an issue or create a pull request.
+
+## License
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+If you have any questions or need further assistance, you can reach me via email at [your_email@example.com](mailto:your_email@example.com).
+
+*(Replace 'your_email@example.com' with your actual email address)*
+
+---
+
+You can copy and paste this template into a new file named "README.md" in the root of your "SQL_analysis" repository. Customize the content to match the specifics of your project, such as the objective, features, technologies used, SQL scripts, and contact details. Additionally, consider providing some examples of the analysis performed using the SQL queries to help users understand the kind of insights they can gain from the database.
+
 Context:
 
 Comapny is a globally renowned brand and a prominent retailer in the United States. Company makes itself a preferred shopping destination by offering outstanding value, inspiration, innovation and an exceptional guest experience that no other retailer can deliver.
